@@ -110,7 +110,7 @@ function doSearch(history) {
 		pushHistory();
 
 	const query_raw = $("#searchfield").val();
-	const query = query_raw.trim().replace(/[.+?^${}()|[\]\\]/g, "").replace(/\*/g, "?").split("").join("'*").replace(/'\*\?/g, "[\\w']*");
+	const query = query_raw.trim().replace(/[.+?^${}()|[\]\\]/g, "").replace(/\*/g, "?").split("").join("'*").replace(/\?/g, "[\\w']*");
 
 	if(query.length > 0) {
 		re = new RegExp("(^|\\P{L})(" + query + ")($|\\P{L})", "ui");
