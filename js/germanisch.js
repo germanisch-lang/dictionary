@@ -1,8 +1,9 @@
 let dictionary, language, re, qrcode;
 const tables = ["#results_ger", "#results_nat"];
 const languages = {
-	en:	["English",	"English"],
-	fr:	["French",	"French"],
+	en:	["English",	"English",	3],
+	fr:	["French",	"French",	2],
+	de:	["German",	"German",	4],
 };
 
 $(document).ready(function() {
@@ -56,12 +57,12 @@ $(document).ready(function() {
 
 function loadDict(lang, history) {
 	language = lang;
-	Papa.parse("data/germanisch-" + language + ".csv", {
+	Papa.parse("data/germanisch.csv", {
 		download: true,
 		header: false,
 		skipEmptyLines: true,
 		complete: function(results) {
-			dictionary = results.data.slice(1);
+			dictionary = results.data.map((entry) => [entry[0] + " " + entry[1], entry[languages[language][2]]]);
 
 			if(history)
 				pushHistory();
