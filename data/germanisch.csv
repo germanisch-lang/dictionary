@@ -1,18 +1,26 @@
 ,(be)schütte ,protéger,to protect,(be)schützen
+den,aal,anguille,eel,Aal
 den,a'genten ,agent,agent,Agent
 ,Aas ,Ase,Áss (sg. of Æsir),Ase
 den,adel ,noblesse,"nobility, aristocracy",Adel
 den,adem,souffle (respiration),breath,Atem
+den,ader,veine,vein,Ader
 ,adopt'eere ,adopter,to adopt,adoptieren
 ,af ,de ; par,of; by,von
+den,af'deling,"département, section",department,Abteilung
 ,affällig,dédaigneux,disdainful,abfällig
 ,afhange/heng/hangen fram ,dépendre de,to depend on,abhängen von
 den,afkomm,descendant,descendant,"Abkomme, Nachkomme"
 ,Afrika ,Afrique,Africa,Afrika
+,afschape,abroger,to abrogate,abschaffen
+den,afsiht,intention,intention,Absicht
+,afsihtlig,délibéré,deliberate,absichtlich
+,afslaa/slog/slagen,refuser,to refuse,sich weigern
 ,aftake/tok/taken,retirer,to take off (tr.),ausziehen
 ,after ,après,after,nach (zeitl.)
 den,aftermiddag ,après-midi,afternoon,Nachmittag
 ,afwäte,s'attendre à,to await,erwarten
+,afwyke/wik/wiken,dévier,to deviate,abweichen
 den,ahorn,érable,maple,Ahorn
 ,aht ,huit,eight,acht
 ,ahte,respecter,to respect,achten
@@ -43,21 +51,28 @@ den,and ,canard,duck,Ente
 ,anem'one ,pressentir,"to guess, suspect",ahnen
 den,anem'one ,anémone,anemone,Anemone
 den,Anglen ,Angle,Angle,Angel (vom Volk der Angeln)
+,ango/gik/gon,"regarder, concerner","to concern, regard","angehen, betreffen"
 den,angst ,peur,fear,Angst
+den,anhänger,partisan,follower,Anhänger
 ,anklage ,accuser,to accuse,anklagen
 ,ankomme/kam/kommen ,arriver,to arrive,ankommen
 den,annula'sjonen ,annulation,annulment,Annullation
 ,ansie/so/sien ,regarder,"to look at, to behold",ansehen
+den,anstalt,établissement,establishment,Anstalt
+,anständig,décent,decent,anständig
 dat,answar,réponse,answer,Antwort
 ,answarlig,responsable,"liable, responsible",verantwortlich
 ,antake/tok/taken ,"admettre, supposer","to accept; to assume, to suppose",annehmen; vermuten
 den,ape,singe,"ape, monkey",Affe
+den,apostel,apôtre,apostle,Apostel
 den,appel ,pomme,apple,Apfel
 den,april ,avril,April,April
 den,arbeid ,"travail, labeur","work, labor",Arbeit
 ,arbeide ,travailler,to work,arbeiten
 ,arlig ,tôt,early,früh
+,arm,pauvre,poor,arm
 den,arm ,bras,arm (body part),Arm
+dat,armband,bracelet,bracelet,Armband
 den,arm'ud ,pauvreté,poverty,Armut
 den,art ,"sorte, espèce, manière","sort, kind, manner",Art
 den,art'ikel ,article,article,Artikel
@@ -67,11 +82,14 @@ den,auer,heure,"hour, time","Stunde, Uhr"
 dat,aug ,œil,eye,Auge
 dat,augblick ,"moment, instant","moment, instant",Augenblick
 den,august ,août,August,August
+den,auksj'onen,vente aux enchères,auction,"Auktion, Versteigerung"
 ,aut ,hors de,outside of,außerhalb von
 ,autbrede,étendre,"to extend, stretch (tr.)","ausbreiten, ausdehnen"
 ,autkiese/kos/kosen ,sélectionner,to select,auswählen
+dat,autland,l'étranger (pays étrangers),countries abroad,das Ausland
 den,autoriteit,autorité,authority,"Behörde, Autorität"
 ,autrote ,"éradiquer, exterminer","to eradicate, to exterminate",ausrotten
+,autsie/so/sien,sembler,to seem,aussehen
 den,autwexling ,échange,exchange,Austausch
 ,autwickle ,développer,to develop,entwickeln
 den,aven ,soir,evening,Abend
@@ -82,7 +100,11 @@ dat,bad,bain,bath,Bad
 ,bak ,"en arrière, de retour",back,zurück
 ,bake ,cuire au four,to bake,backen
 den,bäker ,boulanger,baker,Bäcker
+den,ball,"balle, ballon",ball,Ball
+dat,band,"bande, ruban","strip, ribbon ",(das) Band
+den,band,volume (livre),volume (book),(der) Band
 den,bank ,banque,bank,Bank
+dat,banner,bannière,banner,Banner
 ,bar ,dénudé,"bare, nude","bar, nackt"
 den,bär ,ours,bear,Bär
 dat,baris ,orge,barley,Gerste
@@ -103,22 +125,28 @@ dat,bäute ,butin,prey,Beute
 ,be'fele/be'fal/be'folen ,donner un ordre,"to command, to give an order",befehlen
 ,be'finde sy/fand/funden ,se trouver,to be located,sich befinden
 ,be'for ,avant que,before,bevor
+,be'fordre,promouvoir,to promote,befördern
 ,be'gave met,doter/douer de,to endow with,mit etw. begabt machen
 ,be'ginne/be'gann/be'gonnen ,commencer,to begin,"beginnen, anfangen"
+,be'go/gik/gon,commettre,to commit (a crime),begehen
 ,be'grense,limiter,to limit,begrenzen
+,be'holde/be'held/be'holden,garder,to keep,behalten
+,be'jahe,affirmer,"to affirm, assert","behaupten, bejahen"
 ,be'kvem,confortable,comfortable,bequem
 ,be'reid,prêt,ready,bereit
 ,be'römd,célèbre,famous,berühmt
 ,be'scheiden,modeste,modest,bescheiden
 ,be'sete ,occuper,occupy,besetzen
 ,be'ständig,constant,constant,beständig
-,be'sto ,consister,to consist,bestehen (aus etw.)
+,be'sto av,consister en,to consist of,bestehen (aus etw.)
 ,be'tale ,payer,to pay,bezahlen
 ,be'trahte ,contempler,to contemplate,betrachten
 ,be'waapne ,armer,to arm,bewaffnen
 ,be'wist,conscient,conscious,bewusst
 dat,be'wys ,preuve,"proof, evidence",Beweis
+den,beck,ruisseau,brook,Bach
 dat,bed ,lit,bed,Bett
+,be'grave/grov/graven,enterrer,to bury,begraben
 ,behöre tu ,appartenir à,to belong to,gehören zu
 ,bekennd ,"connu, célèbre","known, famous, familiar",bekannt
 ,Belgjen ,Belgique,Belgium,Belgien
@@ -128,11 +156,17 @@ den,berd,barbe,beard,Bart
 dat,bere,baie (fruit),berry,Beere
 ,bere/bar/boren ,porter (y compris vêtements),"to bear, to carry, to wear (clothes)",tragen
 den,berg ,"mont, montagne",mountain,Berg
+,bert,"brillant, lumineux",bright,"glänzend, hell"
+,beschryve/schriv/schriven,décrire,to describe,décrire
 ,beslute ,décider,decide,"beschließen, entscheiden"
 ,best ,le meilleur,best,beste
 den,bestand ,"effectif, population","stock, population",Bestand
 ,bestemme ,déterminer,to determine,bestimmen
+,bestryde/strid/striden,contester,to contest,bestreiten
+den,be'tong,béton,concrete (noun),Beton
 ,better ,"meilleur, mieux",better,besser
+,bewundre,admirer,to admire,bewundern
+den,Bibel,Bible,Bible,Bibel
 den,bie ,abeille,bee,Biene
 ,biede/bod/boden ,"offrir, proposer","to offer, to provide","bieten, anbieten"
 den,biefsteck,bifteck,beefsteak,Beefsteak
@@ -140,35 +174,47 @@ dat,bier ,bière,beer,Bier
 dat,bild ,image,image,Bild
 ,billig,bon marché,cheap,billig
 ,binde/band/bunden,lier,to bind,binden
+den,bischop,évêque,bishop,Bischof
 ,bitter ,amer,bitter,bitter
+den,biver,"castor, bièvre",beaver,Biber
 dat,blad ,feuille,"leaf, sheet (of paper)",Blatt
 ,blase/bles/blasen ,souffler,to blow,blasen
 ,blau ,bleu,blue,blau
+dat,blaubere,myrtille,blueberry,Heidelbeere
 ,blek ,pâle,pale,blass
 ,blende,"aveugler, éblouir",to blind,blenden
+den,blick,coup d'oeil,glance,Blick
 ,blind ,aveugle,blind,blind
 den,blix ,éclair,"lightning, flash",Blitz
 ,blond ,blond,blond,blond
 ,blot,seulement,only,"nur, bloß"
 den,blud ,sang,blood,Blut
 den,blum ,fleur,flower,Blume
+den,blunder,bévue,blunder,grober Fehler
 dat,bly ,plomb,"lead, plumb",Blei
 ,blyve/bliv/bliven ,rester,"to stay, to remain",bleiben
 den,bock ,bouc,buck,Bock (Tier)
 ,bode ,tous deux,both,beide
+den,bojke,garçon,boy,Junge
 dat,bollwerk ,rempart,bulwark,Bollwerk
 dat,boot ,bateau,boat,Boot
+,bore,"forer, percer","to bore, pierce",bohren
 ,born,né,born,geboren
+den,börsen,bourse,stock exchange,Börse
 den,borste ,brosse,brush,Bürste
 den,bosem,sein (mamelle),bosom,Busen
 den,bou ,arc,"bow, arch",Bogen
+,Brasil,Brésil,Brazil,Brasilien
 ,braun ,brun,brown,braun
 ,bred ,large,"broad, wide",breit
+,breke/brak/broken,"casser, briser",to break,brechen
 ,brenne/brann/brunnen ,brûler,to burn,brennen
+dat,brev,lettre (message),letter (message),Brief
 ,bringe/braht/braht ,"amener, apporter",to bring,bringen
 ,Brit'annjen ,(Grande) Bretagne,(Great) Britain,(Groß-)Britannien
 den,brod ,pain,bread,Brot
 den,broder ,frère,brother,Bruder
+den,bronze,bronze,bronze,Bronze
 den,brosch ,broche (vêtement),brooch,Brosche
 den,brost ,poitrine,"chest, breast",Brust
 den,brox ,pantalon,"pants, trousers",Hose
@@ -176,29 +222,45 @@ den,bru ,pont,bridge,Brücke
 den,bruk ,usage,usage,Gebrauch
 ,bruke ,utiliser,to use,"gebrauchen, nutzen, verwenden"
 den,brunn ,puits,"water well, fountain",Brunnen
+,Brüssel,Bruxelles,Brussels,Brüssel
 ,brut'al ,brutal,brutal,brutal
+,brutto,brut,gross (measure),brutto
+,bubble,bouillonner,to bubble,sprudeln
 den,buch,hêtre,beech,Buche
 dat,büdsch'et ,budget,budget,Budget
+den,buht,baie (géo.),"bight, bay",Bucht
 dat,buk ,livre,book,Buch
 den,bullen ,taureau,bull,"Bulle, Stier"
 dat,bundel,"faisceau, fagot",bundle,Bündel
 den,burg,chäteau(-fort),castle,Burg
 den,Burg'under ,Burgonde,Burgundian (noun),Burgunder
 ,burge,cautionner,to vouch for,bürgen
+den,burger,citoyen,citizen,Bürger
 den,burgmyster,"maire, bourgmestre",mayor (of a town),Bürgermeister
+den,bür'o,bureau (endroit),office,Büro
 den,burt,naissance,birth,Geburt
 den,busch ,buisson,bush,Busch
+den,büst,buste,bust,Büste
 den,butter ,beurre,butter,Butter
 ,by,"auprès de, chez",by (near),bei
 ,bybeholde/held/holden ,"maintenir, entretenir",to maintain,beibehalten
+,bydrage/drug/dragen,contribuer à,to contribuer à,beitragen + dat.
+,bysto,assister (qqun),to assist (someone),beistehen
 ,byte/bit/biten ,mordre,to bite,beißen
 den,ce'ment,ciment,cement,Zement
+den,charm,charme (attraction),charm (attraction),Reiz
+den,check,chèque,check (money),Scheck
+den,cirkel,cercle,circle,Kreis
+,civ'il,civil,civilian,"bürgerlich, zivil-"
 den,civilisa'sjonen ,civilisation,civilization,Zivilisation
 den,daad ,"fait, action","deed, action","Tat, Handlung"
 ,daar ,là,there,"da, dort"
 den,dag ,jour,day,Tag
+,daglig,quotidien,daily,täglich
 dat,dak ,toit,roof,Dach
 dat,dal ,vallée,valley,Tal
+den,dame,dame,lady,Dame
+den,damm,barrage,dam,Damm
 ,dan ,que (comparatif),than (comparative),als (Vergleich)
 den,Dane ,le Danois,Dane,Däne
 ,danke ,remercier,to thank,danken
@@ -207,9 +269,11 @@ den,dans ,danse,dance,Tanz
 ,danse ,danser,to dance,tanzen
 den,darm ,"intestin, boyau",intestine,Darm
 ,dat ,ça ; article défini neutre singulier ; que (relatif),"that (demonstrative); neuter singular definite article; that, which (relative)",das; bestimmter Artikel Neutrum Singular; das (relativ)
+dat,Datum,date,date,Datum
 ,däuch ,allemand,German (adj.),deutsch
 den,däud ,la mort,death,Tod
 ,de [də] ,article défini pluriel,definite article plural,bestimmter Artikel Plural
+den,deb'atten,débat,debate,Debatte
 den,de'cember ,décembre,December,Dezember
 dat,deck ,pont de navire,deck (of ship),Deck
 ,decke ,couvrir,to cover,"decken, bedecken"
@@ -226,6 +290,7 @@ den,del ,partie,part,Teil
 ,denke/daht/daht ,penser,to think,denken
 ,der ,leur(s) ; pronom relatif commun singulier nominatif,their; relative pronoun common singular nominative,ihr (poss. pl.); Relativpronomen Utrum Singular Nominativ
 den,dialekt,dialecte,dialect,Dialekt
+den,diam'anten,diamant,diamond,Diamant
 ,dick ,épais,thick,dick
 ,die ,"eux, elles, ils",they,sie (pl.)
 ,diep ,profond,deep,tief
@@ -235,6 +300,7 @@ den,diev,voleur,thief,Dieb
 dat,dikt,poème,poem,Gedicht
 ,dikte,écrire de la poésie,to write poetry,dichten
 dat,ding,chose,thing,Ding
+den,dirig'enten,chef d'orchestre,conductor (orchestra),Dirigent
 ,dis ,"ceci, base du démonstratif","this, base of the demonstrative","dies, Stamm des Demonstrativums"
 ,disdag ,aujourd'hui,today,heute
 ,disdäg ,de nos jours,these days,heutzutage
@@ -246,14 +312,17 @@ dat,dock ,dock,dock,Dock
 ,dödlig,mortel,"mortal, deadly","tödlich, sterblich"
 ,doh ,bien que (en début de subordonnée) ; pourtant (en fin de phrase),"although (start of subordinate clause); however, still (end of sentence)",obwohl (Nebensatz einleitend); dennoch (Satzende)
 den,dohter ,fille,daughter,Tochter
+den,dolk,poignard,dagger,Dolch
 den,dom,jugement,judgment,Urteil
 ,domme ,"condamner (juger, destiner)","to condemn (to judge, to destine)","verurteilen (richten, bestimmen)"
 den,dommer ,juge,judge,Richter
+den,Donau,Danube,Danube,Donau
 den,donder ,tonnerre,thunder,Donner
 den,donderdag ,jeudi,Thursday,Donnerstag
 ,dor,sec,dry,trocken
 den,dör ,porte,door,Tür
 ,döre ,oser (modal),to dare (modal verb),wagen (Modalverb)
+den,dorn,épine,thorn,Dorn
 dat,dorp ,village,village,Dorf
 den,dörst ,soif,thirst,Durst
 ,doruh,à travers,through,durch
@@ -262,20 +331,28 @@ den,drad ,fil,thread,"Faden, Draht"
 ,drage/drug/dragen ,tirer,"to drag, to pull",ziehen
 den,draht ,"tenue, costume",attire,"Kleidung, Tracht"
 den,drake ,dragon,dragon,Drache
+dat,drama,drame,drama,Drama
 ,drie ,trois,three,drei
 ,dringe/drang/drungen ,"faire pression, pénétrer","to urge, to penetrate",dringen
 ,drinke/drank/drunken ,boire,to drink,trinken
 den,drom,rêve,dream,Traum
+den,droppen,goutte,drop,Tropfen
 ,dru ,menacer,to threaten,drohen
+den,druck,pression,pressure,Druck
 ,drücke ,presser,"to push, to press",drücken
+,drunken,"ivre, saoul",drunk (adj.),betrunken
 ,dry ,tourner (vtr.),to turn (vtr.),drehen
 ,dryve/driv/driven ,"pousser, conduire",to drive,treiben
 ,du ,"tu, toi",thou (you),du
 ,du/ded/don ,faire,to do,tun
 ,düktig,capable,efficient,tüchtig
+,dum,"bête, stupide","dumb, stupide",dumm
+,dunkel,obscur,"obscure,dim",dunkel
 ,dünn ,mince,thin,dünn
+den,dunst,vapeur,steam,Dunst
 ,dür,cher (prix),expensive,teuer
 ,dürend ,"durant, pendant",during,während (Präp.)
+,düster,morne,dismal,düster
 den,dwaang,contrainte,constraint,Zwang
 den,dwerg ,nain,dwarf,Zwerg
 ,dwinge/dwang/dwungen ,forcer,to force,zwingen
@@ -285,6 +362,7 @@ den,dy ,cuisse,thigh,Oberschenkel
 den,ebbe ,marée basse,ebb tide,Ebbe
 ,edel,noble,noble,edel
 ,egen ,propre (à soi),own,eigen
+den,egenschap,caractéristique,"characteristic, feature",Eigenschaft
 ,egentig,"véritable, à proprement parler",actual,eigentlich
 dat,egg ,œuf,egg,Ei
 ,ehte,véritable,real,echt
@@ -297,10 +375,12 @@ dat,eir ,oreille,ear,Ohr
 ,elch ,chaque,each,jeder
 ,elchander ,l’un l’autre,each other,einander
 den,elf ,elfe (sub.),elf,Elfe
+dat,elfenben,ivoire,ivory,Elfenbein
 den,elk,élan,elk,Elch
 ,elve ,11,eleven,elf
 den,emper ,seau,bucket,Eimer
 ,en ,article indéfini singulier,singular indefinite article,unbestimmter Artikel Singular
+den,energ'ie,énergie,energy,Energie
 ,en'orm ,énorme,enormous,enorm
 den,ende ,fin,end,Ende
 ,endegüldig ,définitif,definitive,endgültig
@@ -309,6 +389,7 @@ den,engel ,ange,angel,Engel
 ,England ,Angleterre,England,England
 ,enkel ,"seul, isolé",single (adj.),einzeln
 ,episch ,épique,epic,episch
+,er'holde/er'held/er'holden,obtenir,"to obtain, get",erhalten
 ,er'obre ,conquérir,to conquer,erobern
 ,er'sette ,remplacer,to replace,ersetzen
 ,erst,"autrefois, jadis","erst, once","erst, damals"
@@ -323,11 +404,14 @@ den,esel ,âne,"donkey, ass",Esel
 den,etsig,vinaigre,vinegar,Essig
 ,Eur'opa ,Europe,Europe,Europa
 ,europ'äisch ,européen (adj.),European (adj.),europäisch
+,Europ'äischen Uni'onen,Union Européenne,European Union,europäische Union
 dat,evenem'ente ,événement,event,Ereignis
 den,evolusjonen ,évolution,evolution,"Entwicklung, Evolution"
 ,ewig,éternel,eternal,ewig
 dat,ex'empel ,exemple,example,Beispiel
 ,exepsjion'ell ,exceptionnel,exceptional,außergewöhnlich
+den,fabr'ik,usine,factory,Fabrik
+den,fabrik'anten,fabriquant,manufacturer,Fabrikant
 den,fader ,père,father,Vater
 den,faderschap ,paternité,"paternity, fatherhood",Vaterschaft
 dat,fakt ,fait (subs.),fact,"Fakt, Tatsache"
@@ -337,12 +421,15 @@ den,fall ,"chute, cas","fall, case",Fall
 ,fals ,faux (falsifié),"fake, falsified",falsch (gefälscht)
 den,familje ,famille,family,Familie
 den,fane ,drapeau,"flag, banner",Fahne
+,fär,"juste, impartial","fair, just",fair
 ,färdig ,"prêt, préparé","ready, prepared",fertig
 ,färdigstelle ,compléter,to complete,fertigstellen
+,fare/fur/faren,se déplacer en véhicule,to go in a vehicle,"in einem Fahrzeug gehen, fahren"
 den,faren ,danger,danger,Gefahr
 de,Färöj Eiländ,les Îles Féroé,the Faroe Islands,die Färöer
 den,fart ,allure,speed,Geschwindigkeit
 den,farve ,couleur,color,Farbe
+,färve,teindre,to dye,färben
 ,fast ,solide,"firm, solid",fest
 ,fastsette,établir,"to establish, to set","festsetzen, festlegen"
 ,fatte,saisir,"to grasp, to take hold of",fassen
@@ -353,6 +440,7 @@ den,favor'iten ,favori,favorite,"Favorit, Liebling"
 den,febru'ar ,février,February,Februar
 dat,feder ,plume,feather,Feder
 ,fehte/foht/fohten ,combattre,to fight,kämpfen
+,felle,abattre (faire tomber),to fell,fällen
 dat,felt ,champ (en général),field (in general),Feld (allgemein)
 ,femf ,cinq,five,fünf
 ,fer ,loin,far,fern
@@ -363,9 +451,12 @@ dat,fie ,bétail,cattle,Vieh
 den,fijand ,ennemi,enemy,Feind
 den,fijandschap ,hostilité; inimitié,hostility,"Feindschaft, Feindseligkeit"
 den,film,film,"movie, film",Film
+den,filt,feutre,felt,Filz
 den,fin'ansen ,finance,finance,Finanz(en)
 ,finde/fand/funden ,trouver,to find,finden
 den,finger ,doigt,finger,Finger
+,Finland,Finlande,Finland,Finnland
+den,firma,firme,firm (company),Firma
 den,fisch ,poisson,fish,Fisch
 ,fisisch ,physique,physical,physisch
 dat,flag ,pavillon (drapeau),flag,Flagge
@@ -373,33 +464,46 @@ den,flamme ,flamme,flame,Flamme
 den,flasche ,bouteille,bottle,Flasche
 ,flat,plat,flat,flach
 ,flau ,couler (eau),to flow,fließen
+den,flax,lin,flax,Flachs
+,fler,plusieurs,several,mehrere
 dat,flesch ,"chair, viande","flesh, meat",Fleisch
 ,flie ,fuir,to flee,fliehen
+dat,flies,toison,fleece,Vlies
+den,flint,silex,flint,Feuerstein
+den,flock,petit troupeau,flock,kleine Herde
 ,flote ,flotter,to float,"schweben, treiben"
 den,flud,"flot, marée haute, inondation",flood,Flut
 den,flukt ,fuite,escape,Flucht
 den,flur ,plancher,floor,"Boden, Fußboden"
 ,fly/flog/flogen ,voler (en l'air),to fly,fliegen
+dat,flytäu,avion,"aircraft, airplane",Flugzeug
 ,fo/feng/fongen ,"attraper, capturer",to catch,fangen
 den,fogel ,oiseau,bird,Vogel
 dat,fölen ,poulain,foal,Fohlen
 ,folge ,suivre,to follow,folgen
 ,folgend,"d'après, suivant, selon","following, according to","nach, laut"
 dat,folk ,peuple,(a) people,Volk
+den,fond,fonds,fund,Fonds
+den,font'an,fontaine,fountain,Springbrunnen
 ,for ,"pour, avant, devant ; car","for, before, in front of; for, because","für, vor; denn"
 den,for'autsetting ,condition,"condition, requirement","Voraussetzung, Bedingung"
+,forbäuge,"prévenir, empêcher",to prevent,vorbeugen
 ,for'bide/for'bad/for'buden ,interdire,to forbid,verbieten
-,for'binde/band/bunden ,relier,"to connect, to link",verbinden
+,for'binde/band/bunden ,"relier, joindre","to connect, to link",verbinden
 ,for'blyve/bliv/bliven,"habiter, séjourner","to dwell, sojourn","wohnen, sich aufhalten"
+dat,for'bruk,consommation,consumption,Verbrauch
 ,for'bruke ,"consumer, consommer",to consume,verbrauchen
+den,fordel,avantage,advantage,Vorteil
+,fordjene,mériter,to deserve,verdienen
 den,for'drag ,contrat,"contract, treaty",Vertrag
 ,for'eine ,unir,to unite,vereinen
 de,For'einde Stäten Am'erikas,Etats-Unis d'Amérique,United States of America,Vereinigte Staaten von Amerika
 den,For'einde Koningdom,Royaume-Uni,United Kingdom,Vereingtes Königreich
 den,for'el ,truite,trout,Forelle
 den,forfar,ancêtre,ancestor,Vorfahr
+den,for'fatting,constitution (d'un Etat),constitution (of a State),Verfassung (eines Staates)
 ,for'gete/forgat/forgeten ,oublier,to forget,vergessen
-dat,forgetmynit,myosotis,forget-me-not,Vergissmeinnicht
+dat,for'getmynit,myosotis,forget-me-not,Vergissmeinnicht
 ,for'give/gav/given,pardonner,to forgive,vergeben
 ,for'givens,en vain,in vain,vergebens
 ,for'kert,erroné,erroneous,verkehrt
@@ -408,7 +512,11 @@ dat,forgetmynit,myosotis,forget-me-not,Vergissmeinnicht
 ,for'liere/lor/loren,perdre,to lose,verlieren
 ,for'lovd ,fiancé,engaged (affianced),verlobt
 ,for'love ,promettre (en mariage),to betroth,verloben
+den,for'lust,perte,loss,Verlust
+den,form,forme,"form, shape",Form
+den,formel,formule,formula,Formel
 ,for'mode ,"supposer, supputer","to suppose, to guess",vermuten
+,for'neu,renouveler,to renew,erneuern
 den,for'nunft,raison (intellect),reason (thought),Vernunft
 ,for'nünftig,raisonnable,reasonable,vernünftig
 ,for'orsake ,"causer, provoquer",to cause,verursachen
@@ -423,13 +531,17 @@ den,formel,formule,formula,Formel
 ,forsoke/soht/soht ,"essayer, tenter","to try, to attempt",versuchen
 ,först ,premier,first,erster
 den,forstad ,banlieue,suburb,Vorstadt
-,fortelle/tal/talt ,raconter,"to tell, to narrate",erzählen
+dat,fort,fort (subs. mas.),fort,Fort
+,for'telle/tal/talt ,raconter,"to tell, to narrate",erzählen
 ,fortsette,continuer,to continue,fortsetzen
-,forwalte,administrer,to administrate,verwalten
-,forwexle,confondre,to confuse,verwechseln
+,for'walte,administrer,to administrate,verwalten
+,for'wexle,confondre,to confuse,verwechseln
+,for'wirre,embrouiller,"to mix up, confuse",verwirren
+dat,fosterbarn,enfant adopté,foster child,Pflegling
 den,fox ,renard,fox,Fuchs
 den,frag ,"question, demande","question, request",Frage
 ,frage ,demander (à qqn ; question),to ask (someone a question),fragen
+den,fraht,frêt,freight,Fracht
 ,fram ,en provenance de,(coming) from,von … her
 den,framgang ,progrès,progress,Fortschritt
 den,Franken ,Franc,Frank,Franke
@@ -437,6 +549,7 @@ den,Franken ,Franc,Frank,Franke
 ,fransch ,français,French,französisch
 ,fremmed,étranger,alien,fremd
 ,fresch ,frais,fresh,frisch
+,frete/frat/freten,dévorer,to devour,fressen
 ,fri ,libre,free,frei
 den,fridag ,vendredi,Friday,Freitag
 den,friden ,paix,peace,Frieden
@@ -444,28 +557,38 @@ den,friend ,ami,friend,Freund
 den,friendschap ,amitié,friendship,Freundschaft
 ,friese/fros/frosen ,geler,to freeze,frieren
 ,friesk,frison,Frisian,friesisch
+,frisette,libérer,to set free,freisetzen
 ,fromm,pieux,pious,fromm
+den,front,front (guerre),front,Front
 den,frosch ,grenouille,frog,Frosch
+den,frost,gel (glace),frost,Frost
 den,frukt ,fruit,fruit,Frucht
 ,fruktbar ,fructueux,fruitful,fruchtbar
+,fryste,"tenter, séduire",to tempt,"versuchen, anlocken"
 ,fuktig ,humide,"moist, humid",feucht
 ,full ,plein,full,voll
+,fülle,remplir,to fill,füllen
 ,fullständig,complet,complete,vollständig
 den,fürsten ,prince (régnant),prince (ruler),Fürst
 ,furte ,craindre,to fear,fürchten
 den,fut ,pied,foot,Fuß
 dat,fyer ,feu,fire,Feuer
+,fyl,lime,file (tool),Feile
 ,fyn,"fin, élégant",fine (adj.),fein
 ,Galljen ,Gaule,Gaul,Gallien
-den,gang ,"l'aller, la marche","(act of) going, running (also fig.)",Gang
+den,gang ,"l'aller, la marche; allée, couloir","(act of) going, running (also fig.); gangway","Gang, Korridor"
 ,gape ,"béer, être béant",to gape,"klaffen, weit offen stehen"
+den,garant'ie,garantie,guarantee,Garantie
 den,gard ,cour,"yard, courtyard",Hof
 den,garden ,jardin,garden,Garten
+dat,garn,fil de fibre,yarn,Garn
+den,garnis'on,garnison,garrison,Garnison
 den,gäst ,hôte,guest,Gast
 den,gave ,don,gift,Gabe
 den,gavel ,fourchette,fork (eating utensil),Gabel (Essbesteck)
 den,ge'maal ,époux,spouse (male),"Gemahl, Gatte"
 ,ge'mensam,commun,common,gemeinsam
+den,gener'al,général,general,General
 den,ge'selen,associé,"associate, partner",Geselle
 ,Geiserik ,Genséric,Genseric,Geiserich
 den,geit ,chèvre,goat,"Ziege, Geiß"
@@ -474,6 +597,7 @@ den,geit ,chèvre,goat,"Ziege, Geiß"
 ,gelv ,jaune,yellow,gelb
 ,ge'men,commun,commun,gemein
 ,gen ,contre,against,gegen
+den,gensats,contraire,"contrary, opposite",Gegensatz
 ,germ'anisch ,germanique,Germanic,germanisch
 dat,ge'spenst,fantôme,ghost,"Gespenst, Spuk"
 ,gester ,hier,yesterday,gestern
@@ -487,14 +611,19 @@ dat,glas ,verre,glass,Glas
 ,glittre,"briller, scintiller",to glitter,glitzern
 ,glo ,luire,to glow,glühen
 den,glolampe ,lampe à incandescence,lightbulb,"Glühlampe, Glühbirne"
+den,glori,gloire,glory,"Ruhm, Glorie"
 ,glyde/glid/gliden,glisser,glide,gleiten
+,gnage,ronger,to gnaw,nagen
 ,go/gik/gon ,aller,to go,gehen
 den,god ,dieu,god,Gott
 dat,gold ,or,gold,Gold
 den,goos ,oie,goose,Gans
 den,Goten ,Goth,Goth,Gote
+den,grad,degré,degree,Grad
 den,gramm'atik,grammaire,grammar,Grammatik
+den,gran'it,granite,granite,Granit
 dat,gras ,herbe,grass,Gras
+,gratul'ere,féliciter,to congratulate,gratulieren
 ,grau ,gris,gray,grau
 ,grave/grov/graven ,creuser,to dig,graben
 den,grens ,frontière,"border, frontier",Grenze
@@ -503,17 +632,24 @@ den,Griek ,Grec (subs.),Greek (noun),Grieche
 ,griete,saluer,greet,grüßen
 ,grim,laid,ugly,hässlich
 ,grin ,vert,green,grün
+,grine,sourire en montrant les dents,to grin,grinsen
 ,grot ,grand,"big, large, great",groß
 ,grov,grossier,"coarse, rude",grob
 den,grund ,sol ; raison,"soil, ground; reason, cause",Grund (Boden; Ursache)
 ,grunde ,fonder,"to found, to establish",gründen
+,grundleggend,fondamental,fundamental,grundleggend
+den,grundsats,principe,principle,Grundsatz
 den,gruppe,groupe,group,Gruppe
 ,grype/grip/gripen ,saisir,"to grasp, to take hold of",greifen
 ,gud ,bon,good,gut
 den,gunst ,faveur,favor,Gunst
+den,gurke,concombre,cucumber,Gurke
+den,guvern'ör,gouverneur,governor,Gouverneur
 den,gyst ,esprit,"ghost, spirit",Geist
+den,Haag,La Haye,The Hague,Den Haag
 den,haan ,coq,rooster,Hahn (Tier)
 dat,haar ,cheveux,hair,Haar
+den,hacke,houe,hoe,Hacke
 den,hagel,grèle,hail (ice),Hagel
 den,haken,crochet,hook,Haken
 ,half,demi (adj.),half,halb
@@ -523,9 +659,12 @@ dat,hamit ,chemise,shirt,Hemd
 den,hammer ,marteau,hammer,Hammer
 den,hand ,main,hand,Hand
 den,handel ,commerce,commerce,Handel
+dat,händel,poignée (pour tenir),handle (to hold),Griff (zum Halten)
+den,handfull,poignée (quantité),handful,Handvoll
 ,handle ,manier ; agir,to handle; to act,handhaben; handeln
 den,handschu ,gant,glove,Handschuh
 ,hange/heng/hangen ,pendre,to hang,hängen
+den,här,armée (de terre),army (ground combat),Heer
 ,hard ,dur,hard,hart
 den,hare ,lièvre,hare,Hase
 den,harfst ,automne,"autumn, fall",Herbst
@@ -558,12 +697,16 @@ den,helt ,héros,hero,Held
 ,hemme,entraver,to hamper,hemmen
 dat,hen ,poule,"hen, chicken","Huhn, Henne"
 ,her ,elle ; son,her (object and poss.),"sie, ihr (sg.)"
+den,herberg,"auberge, abri","shelter, inn",Herberge
 den,herd,troupeau,herd,Herde
 den,hering ,hareng,herring,Hering
+den,herkomst,provenance,origin,Herkunft
 den,herren ,"seigneur, monsieur","sir, mister",Herr
 ,herrlig,magnifique,magnificient,herrlich
 ,herrsche ,dominer,"to rule, to dominate",herrschen
 ,het,"très chaud, brülant",hot,heiß
+,heve/hov/heven,soulever,to heave,heben
+den,hexe,sorcière,"witch, hex",Hexe
 ,hi ,"il, lui",he,er
 ,hide ,cacher,to hide,verstecken
 den,hiel ,talon,heel,Ferse
@@ -573,28 +716,35 @@ den,higel ,colline,hill,Hügel
 den,himmel ,ciel,"sky, heaven",Himmel
 ,hind,derrière,behind,hinter
 ,hindre ,empêcher,to hinder,hindern
+den,hist'ori,histoire (passé),history,Geschichte (Vergangenheit)
 den,Hobbit ,hobbit,hobbit,Hobbit
 dat,hof ,cour,"court, courtyard",Hof
 ,höflig,courtois,courteous,höflich
 den,höft,hanche,hip,Hüfte
 ,hog ,haut,high,hoch
+dat,hol,trou,hole,Loch
 ,holde/held/holden ,tenir,to hold,halten
 den,honig ,miel,honey,Honig
 den,hop ,espoir,hope,Hoffnung
 ,höre ,entendre,to hear,hören
+den,hori'sont,horizon,horizon,Horizont
 dat,horn ,corne,horn,Horn
 dat,hot'el ,hôtel,hotel,Hotel
 dat,hovd ,tête,head,"Kopf, Haupt"
 ,hu ,comment,how,wie
 den,huf,sabot (d'animal),hoof,Huf
+den,hummer,homard,lobster,Hummer
 den,Hun ,Hun,Hun,Hunne
 den,hund ,chien,dog,Hund
 ,hundred ,cent,hundred,hundert
 den,hunger ,faim,hunger,Hunger
+den,hür,loyer,rent,Miete
+den,huste,toux,cough,Husten
 den,hütte ,hutte,"shack, hut",Hütte
 den,hy ,requin,shark,Hai
 den,id'ee ,idée,idea,Idee
 ,ie ,vous (sujet),"you (plural or polite, subject)","ihr (Subjekt, auch Höflichkeitsform)"
+,i'gen,encore,again,wieder
 ,ik ,"je, moi",I,ich
 ,ill ,mal (adv.),"badly, ill",schlecht (Adv.)
 ,in ,dans,in,in
@@ -603,12 +753,17 @@ den,influd,"influx, influence",influence,Einfluss
 ,influde,influencer,to influence,beeinflussen
 ,inheimisch ,indigène,indigenous,einheimisch
 ,inkwart'eere ,"loger, cantonner",to accommodate (someone),"einquartieren, unterbringen"
+,innen,dedans,within,"innen, innerhalb"
+,inner,"interne, intérieur",inner,inner
+den,inschrift,inscription,inscription,Inschrift
 dat,ins'ekte ,insecte,insect,Insekt
 ,inständig,urgent,urgent,"inständig, dringend"
 ,intakt ,intact,intact,intakt
 den,integra'sjonen ,intégration,integration,"Integration, Eingliederung"
 den,inter'esse ,l'intérêt,interest,Interesse
-,interes'eere ,intéresser,to interest,interessieren
+,interess'eere ,intéresser,to interest,interessieren
+den,interviu,interview,interview,Interview
+,irisch,irlandais,Irish,irisch
 ,It'aljen ,Italie,Italy,Italien
 ,ivel ,mauvais,"bad, evil","schlecht, böse, übel"
 ,ja ,oui,yes,ja
@@ -621,8 +776,10 @@ den,jakt ,chasse,"chase, hunt",Jagd
 den,janu'ar ,janvier,January,Januar
 ,je... desto...,le (plus)... le (plus)...,the (more)... the (more)...,je... desto...
 ,jer ,vous (oblique),"you (plural or polite, object)",euch
+dat,jok,joug,yoke,Joch
 den,Juden,Juif,Jew,Jude
 den,ju'velen ,"bijou, joyau",jewel,Juwel
+den,jul,Noël,Christmas,Weihnachten
 den,juli ,juillet,July,Juli
 ,jung ,jeune,young,jung
 den,jungling ,le jeune homme,young man,Jüngling
@@ -635,11 +792,17 @@ den,kalk ,chaux,"chalk, lime",Kalk
 dat,kalv ,veau,calf (animal),Kalb
 den,kam ,peigne,comb,Kamm
 den,kammer ,chambre,"chamber, room","Kammer, Zimmer"
+den,kamp,combat,combat,Kampf
+den,kan'al,canal,canal,Kanal
 dat,kan'in ,lapin,rabbit,Kaninchen
-den,kanten ,"bordure, lisière","edge, rim","Kante, Rand"
+den,kant,"bordure, lisière","edge, rim","Kante, Rand"
 dat,kaos ,chaos,chaos,Chaos
 dat,kap'itel,chapitre,chapter,Kapitel
-den,kartoffel ,pomme de terre,potato,Kartoffel
+den,kap'tän (schip),capitaine,captain,Kapitän
+den,kar'akter,caractère (nature),character (nature),Charakter (Natur)
+den,karte,carte,"map, card",Karte
+den,kart'offel ,pomme de terre,potato,Kartoffel
+den,kast'anjen,châtaigne,chestnut,Kastanie
 ,kaste ,"jeter, lancer",to throw,werfen
 den,kat ,chat,cat,Katze
 ,kaupe ,acheter,to buy,kaufen
@@ -647,18 +810,23 @@ den,kat ,chat,cat,Katze
 den,kede ,chaîne,chain,Kette
 den,keller ,cave,"basement, cellar",Keller
 ,kenne ,connaître,to know (to be acquainted with),kennen
+den,kerne,noyau,"stone, kernel",Kern
 den,kettel ,"chaudron, marmite","kettle, cauldron",Kessel
 dat,kid ,petit d'animal,young animal,Jungtier
+den,kies,choix,choice,Wahl
 ,kiese/kos/kosen ,"choisir, désigner",to choose,wählen
 den,kin ,menton,chin,Kinn
 dat,kino,cinéma,cinema theatre,Kino
 den,kirche ,église,church,Kirche
 den,kirchegard ,cimetière,"cemetery, churchyard",Friedhof
 den,kirsch ,cerise,cherry,Kirsche
+den,kiss,"baiser, bisou",kiss,Kuss
 ,kisse,embrasser (baiser),to kiss,küssen
 den,kiste ,"caisse, grosse boîte","chest, box",Kiste
+,kittle,chatouiller,to thickle,kitzeln
 ,klage,se plaindre,to complain,klagen
 ,klar ,clair,clear,klar
+den,klasse,classe,class,Klasse
 dat,kled ,vêtement,"garment, piece of clothing","Kleidungsstück, Kleid"
 den,klei,argile,clay,Lehm
 ,kleje ,gratter,to scratch,kratzen
@@ -666,11 +834,16 @@ den,klei,argile,clay,Lehm
 ,klimbe ,grimper,to climb,klettern
 den,klippe ,falaise,cliff,Klippe
 dat,kloster ,cloître,"cloister (monastery, convent)",Kloster
+den,klover,trèfle,clover,Klee
 ,kluk,intelligent,intelligent,klug
+den,klumpen,"masse, motte",lump,Klump
 den,knape ,page (garçon),"page, knave",Knappe
+,knapp,"rare, chiche",scarce,knapp
 dat,knie ,genou,knee,Knie
 den,kniv ,couteau,knife,Messer
 den,knocke ,os,bone,Knochen
+den,koks,coke,coke,Koks
+dat,konto,compte,account,Konto
 ,knype/knip/knipen,pincer,nip,kneifen
 den,köcken ,cuisine,kitchen,Küche
 den,kogge ,cogue,cog (ship),Kogge
@@ -681,44 +854,64 @@ den,kol ,chou,cabbage,Kohl
 den,kole ,charbon,coal,Kohle
 den,koll'egen ,collègue,colleague,Kollege
 ,Köln ,Cologne,Cologne,Köln
+dat,komma,virgule,comma,Komma
 ,komme/kam/kommen ,venir,to come,kommen
+den,kompass,boussole,compass,Kompass
 den,kompet'ence ,compétence,competence,Kompetenz
 den,komst ,venue,coming,Ankunft
 ,konfront'eere ,confronter (vtr),to confront,"konfrontieren, zur Rede stellen"
 den,kongr'essen ,congrès,congress,Kongress
 den,koning ,roi,king,König
 den,kontinentalsockel,plateau continental,continental shelf,Festlandsockel
+den,kon'trollen,contrôle,control,Kontrolle
+den,kon'voj,convoi,convoy,Konvoy
+,Kopenhagen,Copenhague,Copenhagen,Kopenhagen
 den,kopper ,cuivre,copper,Kupfer
+den,kork,"bouchon, liège",cork,Kork
 dat,korn ,céréale,"grain, cereal","Getreide, Korn"
 den,korv ,panier,basket,Korb
 den,kost ,la chère (nourriture),"fare, food",Kost
 ,koste,coûter,to cost,kosten
 ,kotse up,vomir,to vomit,"erbrechen, kotzen"
 den,kraft ,"force, puissance, artifice","force, strength,, power, craft",Kraft
+,kraftig,robuste,sturdy,kräftig
+den,kragen,col,collar,Kragen
 den,krämer ,épicier,"grocer, shopkeeper","Krämer, Lebensmittelhändler"
 den,krans ,couronne (ex: fleurs),wreath (of flowers etc.),Kranz (z. B. aus Blumen)
 dat,kräuts ,croix,cross,Kreuz
 ,kräutse ,traverser,to cross,"kreuzen, überqueren"
 den,kredit ,crédit,credit,Kredit
+,kriepz/krop/kropen,ramper,to creep,kriechen
 den,krig ,guerre,war,Krieg
 den,kriger ,guerrier,warrior,Krieger
-,krippel,infirme,crippel,Krüppel
+,krippel,infirme,cripple,Krüppel
+den,krisen,crise,crisis,Krise
+den,krist'all,cristal,crystal,Kristalle
 den,kristen ,chrétien,Christian (noun),Christ
 ,Kristus,Christ,Christ,Christus
 den,krone ,couronne,crown,Krone
+,kröne,couronner,to crown,krönen
+den,krücke,béquille,crutch,Krücke
 ,krumm,courbe (adj.),curved,krumm
 den,ku ,vache,cow,Kuh
 ,kul,"froid, frais",cool,kühl
+den,kult'ur,culture (intellectuelle),culture,Kultur
+den,kunden,client,"client, customer",Kunde
 ,kunne ,"pouvoir (présent: kann, prétérit et participe passé: kunnd)","can, to be able (present: kann, preterite and past participle: kunnd)","können (Präsens: kann, Präteritum und Partizip II: kunnd)"
 den,kunst ,art,art,Kunst
-den,kusine ,cousine,girl cousin,Cousine
+den,kuppling,embrayage,clutch (car),Kupplung
+den,kurve,"virage, courbe",curve (noun),Kurve
+den,kus'in,cousin,cousin,Vetter
+den,kus'ine ,cousine,girl cousin,Cousine
 den,kust ,côte,coast,Küste
 ,kutte ,couper,to cut,schneiden
 ,kwick ,vite ; vif,quick,schnell
 den,kyser ,empereur,emperor,Kaiser
 ,laag ,bas,low,"niedrig, tief"
 den,ladder ,échelle (pour grimper),ladder,Leiter
+,lade/lod/laden,charger,to load,laden
 den,lag ,"situation, position","situation, position",Lage
+dat,lager,camp,camp,Lager
 ,lahe ,rire,to laugh,lachen
 dat,laken ,drap,bedsheet,Laken
 ,lam,boiteux,lame,lahm
@@ -732,6 +925,7 @@ den,landbruk ,agriculture,agriculture,Landwirtschaft
 den,last,charge(ment),"load, cargo","Last, Lafung"
 ,lat ,tard,late,spät
 ,late/let/laten ,laisser,to let,lassen
+dat,lat'in,latin,Latin,Latein
 ,latst ,dernier,last,letzter
 ,laud,"bruyant, sonore",loud,laut
 dat,lauf ,feuillage,"foliage, leaves",Laub
@@ -741,6 +935,8 @@ den,laus ,pou,louse,Laus
 den,lax ,saumon,salmon,Lachs
 ,lede ,"conduire, mener",to lead,"führen, leiten"
 dat,leder ,cuir,leather,Leder
+den,leg'ering,alliage,alloy,Legierung
+,legge,poser (à plat),to lay,legen
 ,leide/led/liden,souffrir,to suffer,leiden
 ,lere ,apprendre,to learn,lernen
 den,lerklining ,"torchis, clayonnage",wattle and daub,Flechtwerk mit Lehm
@@ -755,11 +951,13 @@ dat,liht ,lumière,light (noun),Licht
 den,linje ,ligne,line,Linie
 den,lip ,lèvre,lip,Lippe
 ,lissne ,écouter,to listen,"zuhören, anhören"
+,listig,rusé,cunning,listig
 ,litel ,petit,"little, small",klein
 dat,live ,vie,life,Leben
 den,lock ,boucle de cheveux,lock (of hair),Locke
 ,loke ,fermer,to close,schließen
 dat,loon ,le prêt,loan,Darlehen
+,löse,résoudre,to solve,lösen
 den,lotsen ,le pilote (maritime),pilot (naut.),Lotse
 den,löve ,lion,lion,Löwe
 den,low ,loi,law,Gesetz
@@ -780,6 +978,8 @@ den,lunge ,poumon,lung,Lunge
 den,maaltyd,repas,meal,Mahlzeit
 den,mag'ie ,magie,magic (noun),Magie
 den,mage ,estomac,stomach,Magen
+,mager,maigre,meager,mager
+den,magnet,aimant,magnet,magnet
 den,maht ,"pouvoir, puissance","power, might",Macht
 den,mai ,mai,May,Mai
 den,mäid ,"femme, jeune fille","woman, young girl",junge Frau
@@ -790,10 +990,15 @@ den,maler ,peintre,painter,Maler
 dat,malt,malt,malt,Malz
 ,mang ,beaucoup,much,viel
 den,mann ,"homme, mari","man, husband",Mann
+den,mansch'etten,manchette (de bras),cuff of sleeve,Manschette
+den,market,marché,market,Markt
+den,marmor,marbre,marble,Marmor
 den,marschal ,maréchal,marshal,Marschall
 den,marts ,mars,March,März
+den,marxisme,marxisme,Marxism,Marxismus
 den,mast ,mât,mast,Mast
 den,mat,"carpette, natte",mat,Matte
+dat,matt,mesure,measure,Mass
 den,maus ,souris,mouse,Maus
 ,mawe ,faucher,to mow,mähen
 dat,me'nü ,menu (subs.),menu,Menü
@@ -810,11 +1015,13 @@ den,mersee,lac,lake,der See
 ,mest ,le plus,most,meist
 ,met ,avec,with,mit
 dat,met'all ,métal,metal,Metall
+,metdele,communiquer,to communicate,mitteilen
 ,mette/matt/metten,mesurer,to measure,messen
 den,middag ,midi,"noon, midday",Mittag
 den,midde ,milieu,middle,Mitte
 dat,middel ,moyen ; (adj.) central,"means; (adj.) middle, central",Mittel; (adj.) mittlere
 ,middelmettig,médiocre,mediocre,mittelmäßig
+den,middelwerde,moyenne (subs. fém.),average,"Mittelwert, Durchschnitt"
 den,midnaht ,minuit,midnight,Mitternacht
 ,milj'ard,milliard,billion,Milliarde
 den,mille ,moulin,mill,Mühle
@@ -826,8 +1033,10 @@ den,min'ute ,minute,minute,Minute
 den,mire ,fourmi,ant,Ameise
 den,mist ,brume,mist,"Nebel, Dunst"
 ,mistroje ,"ne pas avoir confiance en, suspecter","to mistrust, to suspect",misstrauen
+den,mix,mélange,mix,Mischung
 den,möbel ,meuble,item of furniture,Möbel(stück)
 den,mode ,mode,"fashion, vogue",Mode
+den,mo'del,modèle,model,Model
 den,moder ,mère,mother,Mutter
 ,moge ,"avoir le droit de (présent: mog, prétérit et participe passér: mohd)","may, to be allowed (present: mog, preterite and past participle: mohd)","dürfen (Präsens: mog, Präteritum und Partizip II: mohd)"
 ,möglig ,possible,possible,möglich
@@ -853,6 +1062,7 @@ den,myl ,mille (mesure ; subs.),mile,Meile
 den,myster,maître,master,Meister
 den,naal ,aiguille,needle,Nadel
 den,naber,voisin,neighbour,Nachbar
+den,nacken,nuque,nape,Nacken
 den,nagel ,"ongle, clou",nail,Nagel
 den,naht ,nuit,night,Nacht
 den,nahtgal ,rossignol,nightingale,Nachtigall
@@ -863,7 +1073,9 @@ den,name ,nom,name,Name
 ,närlig,presque,"nearly, almost",fast (adv.)
 den,narr ,"bouffon, fou","fool, jester",Narr
 den,nas ,nez,nose,Nase
+den,nat'ur,nature,nature,Natur
 den,navel ,nombril,navel,Nabel
+,Ne'apel,Naples,Naples,Neapel
 den,necke ,nuque,nape,Nacken
 ,neder ,(vers le) bas,down(wards),nieder
 ,Nederland ,Pays-Bas,Netherlands,Niederlande
@@ -877,9 +1089,12 @@ dat,netwerk ,réseau,network,Netzwerk
 ,neu ,nouveau,new,neu
 ,next,prochain,next,nächst
 ,nextlig,bientôt,soon,bald
+,nicke,hocher la tête,to nod,nicken
+,niemand,ne... personne,"no one, nobody",niemand
 ,niete/not/noten,"bénéficier, profiter de","to enjot, benefit",genießen
 ,nit ,ne... pas,not,nicht
 den,njese ,nièce,niece,Nichte
+den,nod,détresse,distress (noun),Not
 ,noh ,encore (toujours),"still, yet",noch
 den,nom'aden ,nomade,nomad,Nomade
 ,nor,ni,"neither, nor","weder, noch"
@@ -912,6 +1127,7 @@ den,order ,ordre (commandement),order (command),"Order, Befehl"
 ,os ,nous (oblique),us,uns
 den,öst ,est,east,Osten
 dat,oster ,pâques,Easter,Ostern
+,Österrik,Autriche,Austria,Österreich
 den,Östersee,Mer Baltique,Baltic Sea,Ostsee
 den,ouj,brebis,ewe,Aue (Schaff)
 den,oul,"chouette, hibou",owl,Eule
@@ -923,17 +1139,22 @@ den,oven,four,oven,Ofen
 ,overall ,partout,everywhere,überall
 ,oversyds,au-delà (de),beyond,jenseits
 den,oxe ,boeuf,ox,Ochse
+dat,pack,paquet,pack,Pack
 ,packen,emballer,to pack,packen
 den,pad ,sentier,path,Pfad
+den,paddel,pagaie,paddle,Paddel
 dat,pal'eis ,palais,palace,Palast
 den,paniken ,panique,panic,Panik
 dat,panser ,"armure, blindage",armor,"Panzer, Rüstung"
 dat,pap'ir ,papier,papier,Papier
 dat,par ,"couple, paire","couple, pair",Paar
 den,park ,parc,park,Park
+,passend,convenable,suitable,passend
 dat,password ,mot de passe,password,Passwort
 den,pels ,fourrure,fur,Pelz
+den,pepper,poivre,pepper,Pfeffer
 den,per ,poire,pear,Birne
+den,per'son,"personne, personnage","person, character",Person
 ,pikswart ,très noir,pitch-black,pechschwarz
 den,plage ,"épidémie, plaie, fléau; toumenter","plague, nuisance; to plague",Plage; plagen
 den,plan ,plan,plan,Plan
@@ -943,6 +1164,7 @@ den,plats ,"place (square ; emplacement réservé), lieu","place, square, seat
 den,pliht ,"devoir, obligation","obligation, duty",Pflicht
 den,plog ,charrue,plow,Pflug
 ,plötslig,soudain,sudden(ly),plötzlich
+,plucke,"arracher, cueillir",to pluck,pflücken
 den,plume ,prune,plum,Pflaume
 ,plundre ,piller,to plunder,plündern
 den,pol'is ,police,police,Polizei
@@ -953,6 +1175,7 @@ den,pot ,pot,pot,Topf
 ,praktisch ,pratique,practical,praktisch
 den,präsid'enten ,président,president,Präsident
 ,prate,"discuter, bavarder","to talk, chat",plaudern
+den,priest,prêtre,priest,Priester
 den,princen (son af en suveränen),prince,prince,Prinz
 den,princ'esse (suveränens dohter),princesse,princess,Prinzessin
 dat,probl'eme,problème,problem,Problem
@@ -963,6 +1186,7 @@ den,pul ,mare,"puddle, pool","Pfütze, Tümpel"
 den,pumpe ,pompe,pump,Pumpe
 den,raad ,conseil,advice; council,Rat
 dat,raadhaus ,mairie,townhall,Rathaus
+den,rabatt,rabais,discount (noun),Rabatt
 den,rand ,bord,"edge, border",Rand
 ,rasch,"brusque, rapide","swift, quick",rasch
 den,rast,repos,"rest (relief, sleep)","Ruhe, Rast"
@@ -992,23 +1216,28 @@ den,rente ,rente,pension,Rente
 den,restaur'ant ,restaurant,restaurant,Restaurant
 den,Rhyn ,Rhin,Rhine,Rhein
 ,rich ,riche,rich,reich
+,richlig,abondant,abundant,reichlich
+,rihte,"diriger, viser","to direct, aim",richten
 ,rihtig ,"exact, correct","right, correct",richtig
 den,rihtlinje ,directive,"guideline, policy",Richtlinie
 dat,rik ,empire,empire,Reich
 den,rinde ,pelure,rind,Schale (einer Frucht)
 den,ring ,anneau,ring,Ring
+,ringe/rang/rungen,sonner,to ring,klingen
 den,rise ,géant,giant (noun),Riese
 den,rivj'er ,cours d'eau,"river, stream","Fluss, Strom"
 den,rivj'erbank ,rive,riverbank,Flussufer
 ,robe,dérober,to rob,rauben
 ,rod ,rouge,red,rot
 den,rog ,seigle,rye,Roggen
+,roh,"cru, brut","crude, raw","roh, rau"
 den,rolle ,rôle,role,Rolle
 ,Rom ,Rome,Rome,Rom
 ,rom'än ,romain (adj. & subs.),"Roman (adj., noun)","Römer, römisch"
 den,room ,crème (alimentaire),cream (food),Rahm
 dat,ross ,cheval,horse,Pferd
 den,rosstal,étable,stable (horses),Stall
+den,rost,rouille,rust,Rost
 den,rot ,racine,root,Wurzel
 ,rotten ,pourri,rotten,"faul, verdorben"
 ,rübbe,frotter,to rub,reiben
@@ -1024,13 +1253,17 @@ dat,ruum,espace,space,Raum
 ,ryp ,mûr,ripe,reif
 den,ryse ,voyage,"journey, voyage",Reise
 den,sack ,sac,"bag, pouch","Sack, Beutel"
+den,sadel,selle,saddle,Sattel
+den,saft,jus,juice,Saft
 den,sag ,scie,saw (tool),Säge
 den,sake ,"chose, affaire","thing, affair","Sache, Angelegenheit"
 den,sal ,salle,"hall, room","Saal, Raum"
 ,salig,bienheureux,blissful,selig
 dat,salt ,sel,salt,Salz
+den,salve,onguent,"ointment, salve",Salbe
 ,same ,même (adj.),same,"der gleiche, derselbe"
 ,sammen ,ensemble,together,zusammen
+,sammensette,composer (mettre ensemble),to compose (put together),zusammensetzen
 ,sammle,rassembler,to gather,sammeln
 den,sand ,sable,sand,Sand
 ,sankt,saint (préfixe),saint (prefix),Sankt
@@ -1039,6 +1272,7 @@ den,Saxen ,Saxon,Saxon (noun),Sachse
 ,schade ,nuire à,"to damage, to harm",schaden
 den,schadu ,ombre,shadow,Schatten
 ,schake ,secouer,to shake,schütteln
+den,scham,honte,shame,"Scham, Schande"
 ,schände,profaner,to desecrate,schänden
 dat,schap ,mouton,sheep,Schaf
 ,schape,créer,to create,schaffen (erzeugen)
@@ -1051,20 +1285,26 @@ den,schildpad ,tortue,"tortoise, turtle",Schildkröte
 ,schildre,dépeindre,to depict,schildern
 den,schilling ,"sou, s(c)hilling",shilling,S(c)hilling
 dat,schip ,navire,ship,Schiff
+,schlapp,limp (flaccid),flasque,schlaff
 ,schön ,beau,beautiful,schön
+,schone,épargner (ne pas tuer),to spare (not to harm),schonen
 ,schort ,court,short,kurz
+den,schou,spectacle,show (noun),Schau
 den,schovel ,pelle,shovel,Schaufel
 den,schower,averse,shower (rain),Schauer
 ,schrah,de biais,slant,schräg
 den,schreck ,"terreur, effroi","scare, terror",Schrecken
 ,schrecke ,"terrifier, effrayer","to scare, to terrify",erschrecken
 den,schrift,écriture,writing (noun),Schrift
+,schrill,aïgu (son),shrill,schrill
 ,schry ,crier,to scream,schreien
 ,schryve/schriv/schriven ,écrire,to write,schreiben
 den,schu ,chaussure,shoe,Schuh
 den,schuld ,"dette, responsabilité","debt, liability, guilt",Schuld
 den,schulder ,épaule,shoulder,Schulter
 ,schulle ,"devoir (conseil) ; présent: schall, prétérit et participe passé: schuld, conditionnel: schoud","shall (present: schall, preterite and past participle: schuld, conditional: schoud)","sollen (Präsens: schall, Präteritum und Partizip II: schuld, Konditional: schoud)"
+den,schurken,"scélérat, méchant",villain,"Schurke, Böse"
+,Schwytz,Suisse,Switzerland,Schweiz
 ,schyne/schin/schinen ,briller,to shine,scheinen (Sonne)
 den,sed ,"semence, graine",seed,Same
 den,see ,mer,sea,Meer
@@ -1087,6 +1327,7 @@ den,sexe ,sexe,sex,Sex
 ,si ,elle,she,sie (sg.)
 ,sick ,malade,"sick, ill",krank
 ,sie/so/sien ,voir,to see,sehen
+,siede/sod/soden,bouillir,to seethe,sieden
 den,sigis,victoire,victory,Sieg
 ,Sigurd ,Siegfried,Siegfried,Siegfried
 den,siht ,vue,sight,Sicht
@@ -1095,14 +1336,17 @@ dat,silver ,argent,silver,Silber
 ,singe/sang/sungen ,chanter,to sing,singen
 den,sinne ,sens,sense,Sinn
 ,sins ,depuis,since,seit
+dat,sistem,système,system,System
 ,sitte/sat/sitten ,être assis,to sit,sitzen
 den,siv,"crible, tamis, passoire",sieve,Sieb
 ,skaate ,patiner,to skate,Schlittschuh laufen
 den,skade ,dommage ; endommager,"damage, harm; to damage, to harm",Schaden; beschädigen
 dat,skap ,armoire,"cupboard, cabinet",Schrank
 den,skate ,raie (poisson),"ray, skate (fish)",Rochen
+dat,skin,peau (d'animal),animal skin,Fell
 den,skört ,jupe,skirt,Rock
 ,skrape ,racler,to scrape,scheuern
+den,skruv,vis,screw,Schraube
 den,skule ,école,school,Schule
 den,sky,nuage,cloud,Wolke
 ,slaa/slog/slagen ,frapper,"to beat, to hit",schlagen
@@ -1112,6 +1356,8 @@ den,slange ,serpent,snake,Schlange
 ,slape/slep/slapen ,dormir,to sleep,schlafen
 ,slicke,lécher,to lick,lecken
 dat,slott ,château (d'habitation),castle,Schloss (Gebäude)
+den,slummer,endormissement,slumber,Schlummer
+den,smack,saveur,flavour,Geschmack
 ,smacke,goûter (qqch.),to smack,schmecken (etwas)
 ,smal ,étroit,narrow,schmal
 den,smed ,forgeron,blacksmith,Schmied
@@ -1123,6 +1369,7 @@ den,smed ,forgeron,blacksmith,Schmied
 ,smuck ,attractif,"neat, attractive","schmuck, ansprechend"
 ,smücke ,orner,"to adorn, to decorate",schmücken
 ,smuggle,faire passer en contrebande,to smuggle,schmuggeln
+den,smuts,saleté,dirty,Schmutz
 ,smutsig ,sale,dirty,schmutzig
 den,sne ,neige,snow,Schnee
 den,sneil ,escargot,snail,Schnecke
@@ -1136,15 +1383,20 @@ den,sockel,socle,"socle, base",Sockel
 den,sommer ,été,summer,Sommer
 den,son ,fils,son,Sohn
 ,sonder,"spécial, à part (préfixe)",sunder (prefix),sonder- (Präfix)
+den,song,chanson,song,Lied
 den,sope ,savon,soap,Seife
 ,söt ,doux,sweet,süß
 ,sovj'etisch ,soviétique,Soviet (adj.),sowjetisch
 den,spade ,bêche,spade,Spaten
+,Spanjen,Espagne,Spain,Spanien
 ,spare ,épargner,"to spare, to save",sparen
+,sparsam,économe,economical (thrifty),sparsam
 ,specj'al ,spécial,special,"besonders, speziell"
 den,spejel ,miroir,mirror,Spiegel
 ,spele ,jouer,to play,spielen
 dat,spil ,jeu,game,Spiel
+,spille,répandre,to spill,vergiessen
+,spinne/spann/spunnen,filer (du fil),to spin,spinnen (Draht)
 den,spion,espion,spy (noun),Spion
 dat,spit'al ,hôpital,hospital,Krankenhaus
 den,spits,pointe,"tip, point",Spitze
@@ -1154,9 +1406,11 @@ dat,spraak ,"langue, langage",language,Sprache
 ,sprede,répandre,spread,"ausbreiten, zerstreuen"
 ,spreken/sprak/sproken ,parler,to speak,sprechen
 ,springe/sprang/sprungen ,sauter,"to jump, to spring",springen
-,spüte ,cracher,to spit,spucken
+den,spule,bobine,coil,Spule
+,spüte,cracher,to spit,spucken
 den,stack ,tas,stack,Stapel
 den,stad ,ville,"town, city",Stadt
+den,stake,poteau,stake,Pfahl
 den,stal ,acier,steel,Stahl
 den,stam ,tronc; tribu,"stem, trunk; tribe",Stamm
 ,stampe,"tamponner, frapper fort",to stamp,stampfen
@@ -1165,7 +1419,9 @@ den,start ,départ,start,Start
 den,stasj'onen ,gare,(train) station,Station
 dat,stat'uten ,statut,statute,Statut
 den,staten ,Etat,the State,Staat
+den,statensburger,ressortissant,"national (citizen, noun)",Staatsangehöriger
 ,statlig,"imposant, majestueux",stately,stattlich
+den,stav,bâton,staff,Stab
 ,stecke/stack/stocken ,piquer,"to sting, to stab, to stick",stechen
 dat,sted,lieu,"place, location",Ort
 den,stein ,pierre,stone,Stein
@@ -1174,7 +1430,9 @@ den,stein ,pierre,stone,Stein
 den,stemme ,voix,voice,Stimme
 ,sterk ,fort,strong,stark
 den,stern ,étoile,star,Stern
+den,stich,point de couture,stitch,Stich
 den,stift ,crayon,"pen, pencil",Stift
+,stige/steg/stigen,monter (en haut),"to go up, mount",steigen
 ,still,"calme, tranquille","calm, still, silent",still
 ,stinke/stank/stunken ,puer,to stink,stinken
 ,sto ,être debout,to stand,stehen
@@ -1183,6 +1441,7 @@ den,stok ,bâton,"stick, staff",Stock
 ,stöne ,gémir,to groan,stöhnen
 ,stope,"arrêter, s'arrêter",to stop,stoppen
 ,störe ,détruire,to destroy,zerstören
+den,stork,cigogne,stork,Storch
 den,storm ,tempête,storm,Sturm
 ,stötte ,soutenir,to support,stützen
 den,stov ,poussière,dust,Staub
@@ -1190,17 +1449,20 @@ den,straalen ,rayon,"beam, ray",Strahl
 den,straf ,"punition, peine",punishment,Strafe
 den,strand,plage,"strand, beach",Strand
 den,strat ,"rue, route","street, road",Straße
+,Stratsburg,Strasbourg,Strasbourg,Strassburg
 ,strax ,aussitôt,immediately,sofort
 ,strecke,étirer,to stretch,strecken
 ,streve,s'efforcer,to strive,streben
 dat,stro ,paille,straw,Stroh
 den,strom ,courant,stream,Strom
 den,strump ,bas (habit),"stocking, sock",Strumpf
+den,stryd,"conflit, querelle","conflict, strife","Streit, Konflikt"
 ,strypt,à rayures,striped,gestreift
 den,stud'enten ,étudiant,student,Student
 den,stul ,chaise,chair,Stuhl
 ,stum ,muet,mute,stumm
 ,stump ,"émoussé, obtus","blunt, dull",stumpf
+,stüre,diriger,"to control, steer",steuern
 ,sü ,coudre,to sew,nähen
 den,sucker ,sucre,sugar,Zucker
 den,süd ,sud,south,Süden
@@ -1208,17 +1470,21 @@ den,süd ,sud,south,Süden
 ,suge/sog/sogen ,"sucer, téter",to suck,saugen
 den,sum ,somme (fém.),sum,Summe
 ,sund,sain,sound,gesund
+den,sünden,péché,sin,Sünde
 den,sunn ,soleil,sun,Sonne
 ,sunnbade,prendre un bain de soleil,sunbathe,sonnenbaden
 den,sunndag ,dimanche,Sunday,Sonntag
 den,suppe ,soupe,soup,Suppe
+,sur,aigre,sour,sauer
 den,suster ,sœur,sister,Schwester
 den,suveränit'eit ,souveraineté,sovereignty,Souveränität
 ,swaar ,"lourd, difficile",heavy; difficult,"schwer, schwierig"
 den,swager ,beau-frère,brother-in-law,Schwager
 ,swak ,faible,weak,schwach
 den,swalve ,hirondelle,swallow (bird),Schwalbe
+den,swan,cygne,swann,Schwan
 den,swans ,queue,tail,Schwanz
+,swäre/swor/sworen,jurer,to swear,schwören
 ,swart ,noir,black,schwarz
 ,Sweden ,Suède,Sweden,Schweden
 ,Sweeb ,Suève,Suebian (noun),Suebe
@@ -1233,14 +1499,17 @@ den,tabel ,table,table,Tisch
 ,take/tok/taken ,prendre,to take,nehmen
 dat,tal ,nombre,number,Zahl
 ,talrich ,nombreux,numerous,zahlreich
+,tame,domestiqué,tame,zahm
 ,täme,dompter,to tame,zähmen
 ,tämelig,"assez, passablement",quite,ziemlich
 ,tan ,alors,then,dann
 den,tand ,dent,tooth,Zahn
 den,tang ,pince,"pliers, tongs",Zange
+den,tank,réservoir,tank,"Tank, Behälter"
 den,tante ,tante,aunt,Tante
 ,tapper,"brave, courageux","brave, courageous",tapfer
 den,tär,goudron,tar,Teer
+den,targen,"but, cible","goal, target",Ziel(scheibe)
 dat,tastebord ,clavier,keyboard,Tastatur
 dat,tau ,"câble, grosse corde","rope, cable","Tau, Seil"
 ,tausend ,mille,thousand,tausend
@@ -1250,6 +1519,7 @@ dat,te'ater ,théâtre,theater,Theater
 den,tegel,tuile,tile,Ziegel
 den,tegelstein,brique,brick,Backstein
 dat,teken ,signe,sign,Zeichen
+den,tekn'ik,technique (subs.),technique,Technik
 ,telle/tal/talt,compter,to count,zählen
 ,ten ,dix,ten,zehn
 dat,territ'orjum ,territoire,territory,Gebiet
@@ -1258,6 +1528,7 @@ den,text,texte,text,Text
 den,tiewesdag ,mardi,Tuesday,Dienstag
 den,tiger ,tigre,tiger,Tiger
 ,till ,jusqu'à (ce que),"until, till",bis
+den,too,doigt de pied,toe,Zehe
 den,tolk ,"interprète, traducteur","interpreter, translator","Dolmetscher, Übersetzer"
 den,toll ,douane,"toll, customs",Zoll
 den,topp,sommet,top,Gipfel
@@ -1265,19 +1536,26 @@ den,tradisj'onen ,tradition,tradition,Tradition
 den,trap ,escalier,stairs,Treppe
 dat,tre ,arbre,tree,Baum
 ,tred ,fatigué,tired,müde
+,treihe,menacer,to threaten,drohen
 den,trein,train,train,Zug
 den,trend,"mouvement, tendance",trend,Trend
 dat,tribun'al ,"tribunal, cour de justice","court, tribunal",Gericht (jur.)
+den,trick,"ruse, tour",trick,Trick
 den,troj ,confiance,"trust, confidence",Vertrauen
 ,troje in ,avoir confiance en,to trust,vertrauen
 den,tron ,trône,throne,Thron
+den,trost,consolation,solace,Trost
+,tröste,consoler,to comfort,trösten
 ,trots ,"malgré, en dépit de",in spite of,trotz
+,trotse,faire face à,to face,trotzen
 ,tu ,à ; trop,to; too (excessively),zu
 ,tu'friden,satisfait,satisfied,zufrieden
+den,tügel,rêne,rein (strap),Zügel
 ,tu'morgen,demain,tomorrow,morgen (adv.)
 den,tuflukt ,refuge,refuge,Zuflucht
 den,tugang ,accès,access,Zugang
-,tuganglyk ,accessible,accessible,zugänglich
+,tuganglig,accessible,accessible,zugänglich
+,tügle,réfréner,"to curb, restrain",zügeln
 ,tulate/let/laten ,permettre,"to permit, to allow","zulassen, erlauben"
 den,tunge ,langue (dans la bouche),tongue,Zunge
 den,turn ,tour,tower,Turm
@@ -1299,6 +1577,8 @@ den,um'giving ,alentours,"environment, surroundings",Umgebung
 ,un,sans,without,ohne
 ,under ,sous,under,unter
 ,under'danig,servile,subservient,untertänig
+den,undergang,"chute, ruine","fall, ruin",Untergang
+,under'go/gik/gon,subir,to undergo,erleiden
 ,under'handle ,négocier,to negotiate,verhandeln
 ,under'kaste ,soumettre,"to subject, to subjugate",unterwerfen
 ,under'legen,inférieur,inferior,unterlegen
@@ -1311,11 +1591,17 @@ dat,unweder ,orage,thunderstorm,"Unwetter, Gewitter"
 ,up ,vers le haut ; sur,up(wards); on (top of),hinauf; auf
 ,up grund af,à cause de,because of,wegen
 ,upbeware ,"maintenir, conserver","to store, to keep",aufbewahren
+,updecke,détecter,to detect,aufdecken
 dat,updrag ,mission,mission,Auftrag
+,upgive/gav/given,renoncer à,to give up,aufgeben
+,upheve/hov/heven,annuler,to annul,aufheben
+,uphöre,cesser,to cease,aufhören
 ,uprihtig,sincère,sincere,aufrichtig
 den,ur ,"montre, horloge",clock,Uhr
+den,ur'kunden,acte officiel,official document,Urkunde
 den,Vand'alen ,Vandale,Vandal,Vandale
 den,vase ,le vase,vase,Vase
+,Ven'edig,Venise,Venice,Venedig
 ,venster,gauche (côté),left (side),link(s)
 dat,vrack ,épave,wreck,Wrack
 den,vräde ,colère,wrath,Zorn
@@ -1325,9 +1611,9 @@ dat,waapen ,arme,weapon,Waffe
 ,waarfor?,pourquoi,why,warum
 den,wach,"garde, guet","watch, surveillance",Wacht
 ,wackle ,vaciller,"to stagger, to wobble",wackeln
+,wade,"patauger, guéer",to wade,waten
 den,waffel ,gaufre,waffle,Waffel
 den,wagen ,voiture,car,Wagen
-,wandre ,errer,to wander,wandern
 ,wandre ,errer,to wander (about),wandern
 den,wang ,joue,cheek,Wange
 den,ware ,marchandise,"goods, merchandise",Ware
@@ -1335,14 +1621,17 @@ dat,warehaus ,magasin,"store, warehouse","Geschäft, Warenhaus, Lager"
 ,warm ,chaud,warm,warm
 ,warne,avertir,to warn,warnen
 ,wärs ,"pire, pis",worse,schlechter
+,Warschaw,Varsovie,Warsaw,Warschau
 ,wärst ,le pire,worst,schlechtest
 ,wasche ,laver,to wash,waschen
 ,wäte,attendre,to wait for,warten auf
 dat,water ,eau,water,Wasser
 dat,wax ,cire,wax,Wachs
+,wäxe/waxte/waxen,"grossir, croître",to grow,wachsen
 ,wecke ,réveiller,to wake (vtr.),wecken
 dat,wed ,bois (deux sens),"wood, forest","Holz, Wald"
 dat,weder ,temps (météo),weather,Wetter
+dat,week ,mal(heur),woe,Weh
 den,week ,semaine,week,Woche
 den,weg ,chemin,"way, path",Weg
 dat,weht,poids,weight,Gewicht
@@ -1378,23 +1667,30 @@ dat,wiel ,roue,wheel,Rad
 den,wille ,volonté,will (subs.),Wille
 ,wille ,vouloir (prétérit et participe passé: wilt),to want (preterite and past participle: wilt),wollen (Präteritum und Partizip II: wilt)
 den,wind ,vent,wind (air),Wind
+,winde/wand/wunden,tordre,to wind,winden
 dat,windu ,fenêtre,window,Fenster
 den,wing ,aile,wing,Flügel
-den,winkel ,coin,corner,"Winkel, Ecke"
+den,winkel ,"coin, angle","corner, angle","Winkel, Ecke"
 ,winne/won/wonnen ,gagner,to win,gewinnen
 den,winsch ,souhait,wish,Wunsch
 den,winter ,hiver,winter,Winter
 ,wirke ,"avoir un effet, fonctionner","to work, to have an effect",wirken
+,wirksam,efficace,efficient,wirksam
 den,wirking ,effet,effect,Wirkung
 ,wirvle,"tournoyer, tourbillonner",to whirl (int.),wirbeln
 ,wische ,essuyer,to wipe,wischen
+,wiss,certain,"certain, sure",gewiss
+,wissle,siffler,to whistle,pfeifen
+den,wit,mot d'esprit,wit,Witz
 ,witte ,"savoir (présent: weit, prétérit et participe passé: wist)","to know (to be aware of) (present: weit, preterite and past participle: wist)","wissen (Präsens: weit, Präteritum und Partizip II: wist)"
+den,witteschap,science,science,Wissenschaft
 ,wo ,pronom relatif nominatif pour êtres animés,subject form of relative pronoun for living beings,Relativpronomen (Nominativ) für Lebewesen
 ,Woden ,"Odin, Wotan","Odin, Wotan","Odin, Wotan"
 den,wodensdag ,mercredi,Wednesday,Mittwoch
 den,wog ,vague,wave,Welle
 den,wolf ,loup,wolf,Wolf
 dat,wonder,merveille,wonder,Wunder
+,wonderbar,merveilleux,"marvelous, wonderful",wunderbar
 dat,word ,mot,word,Wort
 den,worm ,ver,worm,Wurm
 den,wul ,laine,wool,Wolle
